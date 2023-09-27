@@ -1,2 +1,2 @@
 # WAS500
-Web Application Scripting Subject 
+Web Application Scripting Subject Labs
